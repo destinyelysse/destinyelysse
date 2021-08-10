@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋 My name is Destiny.
+
+I am an iOS developer looking for a junior developer role. I am self taught through projects in Hacking with Swift where I have explored UIKit and SwiftUI. 
 
 <!--
 **destinyelysse/destinyelysse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
