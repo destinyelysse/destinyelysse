@@ -1,7 +1,7 @@
 ### Hi there! 👋 My name is Destiny.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+I'm a general technologist who enjoys building end-to-end systems. Driven by passion and curiosity, I've spent the last few years exploring various facets of technology, including frontend enginnering, iOS development, machine learning and data analysis, and computer science fundamentals. I am currently learning backend engineering. 
 
-I'm a self taught developer who loves to learn new technologies. My repositories include projects made with HTML, CSS, JavaScript, Python, Swift, and React. 
+During the day, I work as "the tech person" at a small company, where I collaborate with other departments to design solutions that solve business problems with a focus on Salesforce administration and development. I also manage the network and IT infrastructure, drive adoption of software solutions, onboard and train new associates, and assist with troubleshooting. 
 
-I'm currently employed as a Technology and Operations Associate for a small wealth management firm in the Silicon Valley. 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
